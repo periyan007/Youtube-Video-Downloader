@@ -1,0 +1,5 @@
+customtkinter>=0.8.0
+darkdetect>=0.8.0
+Pillow>=12.3.0
+yt-dlp>=2025.6.30
+imageio-ffmpeg>=0.5.1
